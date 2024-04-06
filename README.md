@@ -1,4 +1,4 @@
-# Car Wash Management
+# Car Wash Management Software
 
 To run C++ programs using Code::Blocks, you can follow these steps:
 
